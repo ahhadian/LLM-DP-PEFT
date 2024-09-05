@@ -1,0 +1,1 @@
+media_path = "YOUR_MEDIA_PATH"
